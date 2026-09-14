@@ -3,6 +3,12 @@
 *.user
 *.suo
 
+# Visual Studio project files (keep locally)
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+
 # Build output
 [Dd]ebug/
 [Rr]elease/
