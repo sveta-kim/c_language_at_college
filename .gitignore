@@ -1,0 +1,10 @@
+# Visual Studio cache and user settings
+.vs/
+*.user
+*.suo
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
